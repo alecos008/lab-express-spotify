@@ -47,3 +47,13 @@ form {
   display: flex;
   flex-direction: column;
 }
+.album-search-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  column-gap: 1.5vw;
+}
+.album-search {
+  display: flex;
+  flex-direction: column;
+}
